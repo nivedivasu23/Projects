@@ -56,4 +56,4 @@ Feel free to fork this repository, make improvements, and create pull requests. 
 
 ## Contact
 
-For any questions, feel free to contact me at [niveditha.suresh23@example.com].
+For any questions, feel free to contact me at [niveditha.suresh23@gmail.com].
