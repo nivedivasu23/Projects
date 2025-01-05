@@ -52,10 +52,8 @@ This repository contains various data science and machine learning projects by N
 
 Feel free to fork this repository, make improvements, and create pull requests. Contributions are always welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions, feel free to contact me at [your_email@example.com].
+For any questions, feel free to contact me at [niveditha.suresh23@example.com].
